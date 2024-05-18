@@ -17,12 +17,15 @@ string[] initArr()
     {
         //ввод элемента массива с клавиатуры
         System.Console.Write($"Input element {i + 1}: ");
-        initArr[i] = Convert.ToString(Console.ReadLine());
+        //
+        string? element = Console.ReadLine();
+        initArr[i] = element ?? string.Empty; 
         //если не введено значение, то выводится повторный запрос на ввод элемента массива
         while (initArr[i] == "")
         {
-            System.Console.Write($"Input element {i + 1}: ");
-            initArr[i] = Convert.ToString(Console.ReadLine());
+            System.Console.Write($"Invalid input. Please enter element {i + 1}: ");
+            element = Console.ReadLine();
+            initArr[i] = element ?? string.Empty; 
         }
     }
     return initArr;
