@@ -1,0 +1,15 @@
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\bin\Debug\net8.0\final_test_01.exe
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\bin\Debug\net8.0\final_test_01.deps.json
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\bin\Debug\net8.0\final_test_01.runtimeconfig.json
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\bin\Debug\net8.0\final_test_01.dll
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\bin\Debug\net8.0\final_test_01.pdb
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.AssemblyInfoInputs.cache
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.AssemblyInfo.cs
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.csproj.CoreCompileInputs.cache
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.sourcelink.json
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.dll
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\refint\final_test_01.dll
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.pdb
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\final_test_01.genruntimeconfig.cache
+D:\01.bSergey\04.education\GeekBrains\tests\final_test_01\obj\Debug\net8.0\ref\final_test_01.dll
