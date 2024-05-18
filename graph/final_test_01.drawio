@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-05-18T18:08:04.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="78V28DT23mopkiLTRfv6" version="24.4.0" type="device">
+  <diagram name="Страница — 1" id="RrcYfVaWwaxr08F53ndg">
+    <mxGraphModel dx="1137" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gCrWcAFxk7_VopviN0U1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCrWcAFxk7_VopviN0U1-1" target="gCrWcAFxk7_VopviN0U1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCrWcAFxk7_VopviN0U1-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gCrWcAFxk7_VopviN0U1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCrWcAFxk7_VopviN0U1-2" target="gCrWcAFxk7_VopviN0U1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCrWcAFxk7_VopviN0U1-2" value="bool[] overwrArr = new bool[0]&lt;div&gt;&lt;div&gt;&lt;div&gt;i = 0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="210" width="186" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gCrWcAFxk7_VopviN0U1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gCrWcAFxk7_VopviN0U1-3" target="gCrWcAFxk7_VopviN0U1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCrWcAFxk7_VopviN0U1-3" value="initArrLength&lt;div&gt;&lt;div&gt;&lt;div&gt;bool[] initArr = new bool[intArrLength]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="120" width="283" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gCrWcAFxk7_VopviN0U1-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
